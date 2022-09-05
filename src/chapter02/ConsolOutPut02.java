@@ -20,6 +20,10 @@ public class ConsolOutPut02 {
 		System.out.printf("당신의 나이는 %d 이고, 몸무게는 %2.1f 입니다.\n", 35, 70.5);
 		
 		System.out.printf("%d, %2.2f, %s\n",30 ,20.55, "오늘");
+
+
+		System.out.println("추가된 내용1");
+
 	}
 
 }
